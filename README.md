@@ -14,12 +14,6 @@ The dashboard helps to analyze:
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Images](Dashboard Images)  
-*(Add your dashboard screenshot here – rename your file dashboard.png and upload to the repo)*
-
----
-
 ## 🔑 Key Insights
 - *Top Destination Airports*: ATL, DEN, DFW, ORD  
 - *Passengers by Class*: Clear split between economy, business, etc.  
