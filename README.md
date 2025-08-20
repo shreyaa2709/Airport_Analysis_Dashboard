@@ -15,7 +15,7 @@ The dashboard helps to analyze:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Images](dashboard.png)  
+![Dashboard Images](Dashboard Images)  
 *(Add your dashboard screenshot here – rename your file dashboard.png and upload to the repo)*
 
 ---
