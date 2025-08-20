@@ -35,3 +35,35 @@ The dashboard helps to analyze:
 - *GitHub* – For project sharing & version control  
 
 ---
+
+## 🚀 How to Use
+1. Clone this repository:
+
+
+2. Open the Airport_Analysis.pbix file in Power BI Desktop.
+(Or open Excel if you built it in Excel instead of Power BI)
+
+
+3. Explore dashboard pages & interact with filters.
+
+
+
+
+---
+
+📈 Future Improvements
+
+Add time-series trend analysis (yearly/quarterly passenger growth).
+
+Implement predictive modeling for forecasting passenger traffic.
+
+Add airport-level comparison KPIs.
+
+
+
+---
+
+🙌 Author
+
+SHREYA TYAGI
+GitHub Profile | LinkedIn
