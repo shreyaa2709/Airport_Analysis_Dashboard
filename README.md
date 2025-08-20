@@ -63,7 +63,8 @@ Add airport-level comparison KPIs.
 
 ---
 
-🙌 Author
+🙋‍♀ Author
+Shreya Tyagi
+B.Tech - Computer Science and Engineering | Data & Business Intelligence Enthusiast
+📧 Email: ty.shreya2004@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/shreya-tyagi-896495352
 
-SHREYA TYAGI
-GitHub Profile | LinkedIn
